@@ -101,6 +101,22 @@ builder.Services.AddAuthorization(options =>
     });
 });
 
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(MyAllowSpecificOrigins,
+                          policy =>
+                          {
+                              policy.AllowAnyOrigin()
+                              .AllowAnyHeader()
+                              .AllowAnyMethod();
+                              //  policy.WithOrigins("http://localhost:63342",
+                              //  "https://www.vives.be")
+                              //.WithMethods("POST", "DELETE", "GET")
+                              // .AllowAnyHeader();
+                          });
+});
+
 var app = builder.Build();
 
 // HTTP request pipeline configureren

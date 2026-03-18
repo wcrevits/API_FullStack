@@ -48,7 +48,7 @@ new Claim("functie", "Manager")
         _configuration["JwtConfig:JwtIssuer"],
         _configuration["JwtConfig:JwtIssuer"],
         claims,
-        expires: expires,
+        expires: DateTime.UtcNow.AddMinutes(1),
         signingCredentials: creds
         );
         return new JwtSecurityTokenHandler().WriteToken(token);
