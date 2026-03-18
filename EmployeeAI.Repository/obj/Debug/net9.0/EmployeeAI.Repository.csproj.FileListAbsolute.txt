@@ -16,3 +16,21 @@ X:\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\refint\EmployeeAI.Reposito
 X:\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\EmployeeAI.Repository.pdb
 X:\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\EmployeeAI.Repository.genruntimeconfig.cache
 X:\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\ref\EmployeeAI.Repository.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\bin\Debug\net9.0\EmployeeAI.Repository.deps.json
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\bin\Debug\net9.0\EmployeeAI.Repository.runtimeconfig.json
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\bin\Debug\net9.0\EmployeeAI.Repository.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\bin\Debug\net9.0\EmployeeAI.Repository.pdb
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\bin\Debug\net9.0\EmployeeAPI.Domain.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\bin\Debug\net9.0\EmployeeAPI.Domain.pdb
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\EmployeeAI.Repository.csproj.AssemblyReference.cache
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\EmployeeAI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\EmployeeAI.Repository.AssemblyInfoInputs.cache
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\EmployeeAI.Repository.AssemblyInfo.cs
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\EmployeeAI.Repository.csproj.CoreCompileInputs.cache
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\EmployeeAI.Repository.sourcelink.json
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\Employee.C1D7D8F4.Up2Date
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\EmployeeAI.Repository.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\refint\EmployeeAI.Repository.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\EmployeeAI.Repository.pdb
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\EmployeeAI.Repository.genruntimeconfig.cache
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Repository\obj\Debug\net9.0\ref\EmployeeAI.Repository.dll

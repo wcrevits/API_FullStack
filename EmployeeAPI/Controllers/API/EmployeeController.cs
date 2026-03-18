@@ -3,6 +3,7 @@ using EmployeeAPI.Services.Interfaces;
 using EmployeeAPI.ViewModels;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 [Route("api/[controller]")]
 [ApiController]
@@ -22,8 +23,9 @@ public class EmployeeController : ControllerBase
     /// </summary>
     /// <returns>The list of Employees.</returns>
 
+    // could also be [HttpGet, Authorize(Policy = "AdminManager")]
     // GET: api/Employee
-    [HttpGet]
+    [HttpGet, Authorize]
     public async Task<ActionResult<IEnumerable<EmployeeVM>>> Get()
     {
         try

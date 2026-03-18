@@ -4,9 +4,12 @@ using EmployeeAPI.Repository;
 using EmployeeAPI.Repository.Interfaces;
 using EmployeeAPI.Services;
 using EmployeeAPI.Services.Interfaces;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -61,6 +64,42 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 // Dependency Injection (DAO + Services)
 builder.Services.AddScoped<IEmployeeDAO, EmployeeDAO>();
 builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+
+//Gebruik JWT Bearer authentication als standaard authenticatiemethode.
+//ASP.NET verwacht een header zoals: Authorization: Bearer<token>
+builder.Services
+.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    //Gebruik JWT Bearer authentication als standaard authenticatiemethode.
+    options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+//Configureer JWT Bearer authentication
+.AddJwtBearer(cfg =>
+{
+    cfg.RequireHttpsMetadata = false;
+    cfg.SaveToken = true;
+    //Configureer de parameters voor het valideren van het token
+    cfg.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidIssuer = builder.Configuration["JwtConfig:JwtIssuer"], // uitgever van het token
+        ValidAudience = builder.Configuration["JwtConfig:JwtIssuer"],
+        //de sleutel waarmee de token signature wordt gecontroleerd
+        IssuerSigningKey = new
+        SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JwtConfig:JwtKey"])),
+        ClockSkew = TimeSpan.Zero // remove delay of token when expire
+    };
+});
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AdminManager", policy =>
+    {
+        policy.RequireRole("Admin");
+        policy.RequireClaim("functie", "Manager");
+    });
+});
 
 var app = builder.Build();
 

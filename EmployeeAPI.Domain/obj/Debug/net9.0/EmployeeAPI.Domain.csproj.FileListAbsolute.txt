@@ -13,3 +13,18 @@ X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\refint\EmployeeAPI.Domain.dll
 X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.pdb
 X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.genruntimeconfig.cache
 X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\ref\EmployeeAPI.Domain.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\bin\Debug\net9.0\EmployeeAPI.Domain.deps.json
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\bin\Debug\net9.0\EmployeeAPI.Domain.runtimeconfig.json
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\bin\Debug\net9.0\EmployeeAPI.Domain.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\bin\Debug\net9.0\EmployeeAPI.Domain.pdb
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.csproj.AssemblyReference.cache
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.AssemblyInfoInputs.cache
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.AssemblyInfo.cs
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.csproj.CoreCompileInputs.cache
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.sourcelink.json
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\refint\EmployeeAPI.Domain.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.pdb
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.genruntimeconfig.cache
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\ref\EmployeeAPI.Domain.dll

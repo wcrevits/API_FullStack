@@ -16,3 +16,21 @@ X:\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\EmployeeAI.Services.dll
 X:\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\refint\EmployeeAI.Services.dll
 X:\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\EmployeeAI.Services.pdb
 X:\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\ref\EmployeeAI.Services.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\bin\Debug\net9.0\EmployeeAI.Services.deps.json
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\bin\Debug\net9.0\EmployeeAI.Services.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\bin\Debug\net9.0\EmployeeAI.Services.pdb
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\bin\Debug\net9.0\EmployeeAI.Repository.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\bin\Debug\net9.0\EmployeeAPI.Domain.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\bin\Debug\net9.0\EmployeeAI.Repository.pdb
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\bin\Debug\net9.0\EmployeeAPI.Domain.pdb
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\EmployeeAI.Services.csproj.AssemblyReference.cache
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\EmployeeAI.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\EmployeeAI.Services.AssemblyInfoInputs.cache
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\EmployeeAI.Services.AssemblyInfo.cs
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\EmployeeAI.Services.csproj.CoreCompileInputs.cache
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\EmployeeAI.Services.sourcelink.json
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\Employee.3B70F066.Up2Date
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\EmployeeAI.Services.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\refint\EmployeeAI.Services.dll
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\EmployeeAI.Services.pdb
+F:\Personal Documents\School\2025-2026\Full stack dev\SEM2\EmployeeAPI\EmployeeAI.Services\obj\Debug\net9.0\ref\EmployeeAI.Services.dll
