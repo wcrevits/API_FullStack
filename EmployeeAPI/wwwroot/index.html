@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Employees</title>
+</head>
+
+<body>
+
+    <h1>Employees</h1>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Company</th>
+                <th>Designation</th>
+                <th>Salary</th>
+            </tr>
+        </thead>
+        <tbody id="employeeTable"></tbody>
+    </table>
+
+    <script>
+
+        fetch("https://localhost:7192/api/Employee")
+            .then(response => {
+
+                if (!response.ok) {
+                    throw new Error("HTTP error " + response.status);
+                }
+
+                return response.json();
+
+            })
+            .then(data => {
+
+                let table = document.getElementById("employeeTable");
+
+                data.forEach(emp => {
+
+                    let row = `
+            <tr>
+                <td>${emp.name}</td>
+                <td>${emp.address}</td>
+                <td>${emp.companyName}</td>
+                <td>${emp.designation}</td>
+                <td>${emp.salary}</td>
+            </tr>
+            `;
+
+                    table.innerHTML += row;
+
+                });
+
+            })
+            .catch(error => console.error("Fetch error:", error));
+
+    </script>
+
+</body>
+</html>

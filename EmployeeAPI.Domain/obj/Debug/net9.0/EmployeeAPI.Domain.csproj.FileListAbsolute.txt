@@ -1,0 +1,15 @@
+X:\EmployeeAPI\EmployeeAPI.Domain\bin\Debug\net9.0\EmployeeAPI.Domain.deps.json
+X:\EmployeeAPI\EmployeeAPI.Domain\bin\Debug\net9.0\EmployeeAPI.Domain.runtimeconfig.json
+X:\EmployeeAPI\EmployeeAPI.Domain\bin\Debug\net9.0\EmployeeAPI.Domain.dll
+X:\EmployeeAPI\EmployeeAPI.Domain\bin\Debug\net9.0\EmployeeAPI.Domain.pdb
+X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.csproj.AssemblyReference.cache
+X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.AssemblyInfoInputs.cache
+X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.AssemblyInfo.cs
+X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.csproj.CoreCompileInputs.cache
+X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.sourcelink.json
+X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.dll
+X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\refint\EmployeeAPI.Domain.dll
+X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.pdb
+X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\EmployeeAPI.Domain.genruntimeconfig.cache
+X:\EmployeeAPI\EmployeeAPI.Domain\obj\Debug\net9.0\ref\EmployeeAPI.Domain.dll
